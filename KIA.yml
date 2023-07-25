@@ -1,6 +1,11 @@
 team : KIA
+<<<<<<< HEAD
 manager: 전에스더
 coach : AAA
+=======
+manager: 안재진
+coach : BBB
+>>>>>>> origin/main
 
 members:
 - 양현종
